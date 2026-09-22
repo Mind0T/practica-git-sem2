@@ -1,2 +1,2 @@
-print('Hola git desde rama-a')
+print('Hola Git')
 print('Modificado por rama A')
