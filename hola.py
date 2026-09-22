@@ -1,2 +1,2 @@
 print('Hola Git')
-print('Esto es una segunda linea')
+print('Modificado por rama B')
